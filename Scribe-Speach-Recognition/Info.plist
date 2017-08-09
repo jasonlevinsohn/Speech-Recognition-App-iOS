@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key></key>
+	<string></string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>We need to transcribe your speech file.  Cool? </string>
 </dict>
 </plist>
